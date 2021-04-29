@@ -1,0 +1,41 @@
+html, body{
+   margin: 0;
+/*    padding: 20px;*/
+    background-color: #00868B;
+}
+
+.gallery{
+/*    margin-bottom: 20vh;*/
+    text-align: center;
+}
+
+.songs{
+    padding-top: 5vh;
+}
+
+.graphic{
+    
+}
+
+header{
+    margin: 25vh;
+    padding-top:10vh;
+}
+h1{
+    font-family: monospace;
+    color:aliceblue;
+    font-size: 70px;
+    text-align: center;
+/*    margin:15vh;*/
+}
+
+h3{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 5;
+    font-size: 20px;
+    color: aliceblue;
+/*    opacity: 90%;*/
+    text-align: center;
+
+}
